@@ -1,2 +1,2 @@
-# ILLUMINATI-HOSPITALITY-SYSTEM2
-Proyect
+# ILLUMINATI-HOSPITALITY-SYSTEM
+Trabajo educativo sobre un sistema de hotel ...
